@@ -1,0 +1,21 @@
+# Site settings
+title: Project Mercer
+header-img: img/home-bg.png
+email: baggiojuliana@gmail.com
+copyright_name: MERCERNYC
+description: > # this means to ignore newlines until "baseurl:"
+  Simple Code
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  MERCERNYC
+learn_profile: MERCERNYC
+email_username: baggiojuliana@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
