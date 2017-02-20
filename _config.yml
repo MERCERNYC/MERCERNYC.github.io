@@ -1,7 +1,7 @@
 # Site settings
 title: Project Mercer
 header-img: img/home-bg.png
-email: baggiojuliana@gmail.com
+email: julianafogg@gmail.com
 copyright_name: MERCERNYC
 description: > # this means to ignore newlines until "baseurl:"
   Simple Code
@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MERCERNYC
 learn_profile: MERCERNYC
-email_username: baggiojuliana@gmail.com
+email_username: julianafogg@gmail.com
 
 # Build settings
 markdown: kramdown
