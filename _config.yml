@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: julianafogg@gmail.com
 copyright_name: MERCERNYC
 description: > # this means to ignore newlines until "baseurl:"
-  Simple Code
+  Create & Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MERCERNYC
