@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why did I decide to Learn How to Code?"
-date:   2017-02-23 19:20:04 +0000
+date:   2017-02-23 14:20:05 -0500
 ---
 
 ![](https://www.tumblr.com/blog/coralreviewmilkshake)
