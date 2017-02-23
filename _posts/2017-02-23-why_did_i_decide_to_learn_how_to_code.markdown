@@ -4,7 +4,7 @@ title:  "Why did I decide to Learn How to Code?"
 date:   2017-02-23 14:20:05 -0500
 ---
 
-![](https://www.tumblr.com/blog/coralreviewmilkshake)
+
 
 *I decided to learn to code for a simple reason. I want to create beautiful things!**
 
