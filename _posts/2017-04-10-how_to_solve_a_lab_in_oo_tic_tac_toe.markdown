@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "**HOW TO SOLVE A LAB IN OO TIC TAC TOE**"
-date:   2017-04-10 20:15:06 +0000
+title:  "HOW TO SOLVE A LAB IN OO TIC TAC TOE"
+date:   2017-04-10 16:15:07 -0400
 ---
 
-
-*Display_board Lab and Display_rainbow Lab*
 
 I am very happy to be able to solve the labs and see my Tic Tac toe board coming to live. To solve the labs can be frustrating sometimes specially for us beginners. But whenever I have a question the Flatiron community is great and help me anytime I am stuck. 
 
