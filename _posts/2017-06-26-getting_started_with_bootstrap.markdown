@@ -9,7 +9,7 @@ date:   2017-06-26 14:36:05 -0400
 
 How about more time to spend with your friends instead of breaking your head to create responsive webpages? The solution is to be best friend of the framework called Bootstrap which I had the pleasure and fun to learn how it works.
 
-You might have the feeling of cheating for not written your webpages from scratch, but learning Bootstrap can help you to save time and energy.
+You might have that feeling of cheating for not writting your webpages from scratch. But  learning Bootstrap can help you to save time and energy.
 
 As I started working with Bootstrap templates, I was surprised to see how functional webpage can be by just manipulating and adding components to the templates.
 
