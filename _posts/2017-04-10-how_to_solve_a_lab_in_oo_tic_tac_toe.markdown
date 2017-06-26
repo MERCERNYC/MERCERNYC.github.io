@@ -1,32 +1,35 @@
 ---
 layout: post
-title:  "HOW TO SOLVE A LAB IN OO TIC TAC TOE"
+title:  "INTERPOLATION & ARRAY"
 date:   2017-04-10 16:15:07 -0400
 ---
 
 
-I am very happy to be able to solve the labs and see my Tic Tac toe board coming to live. To solve the labs can be frustrating sometimes specially for us beginners. But whenever I have a question the Flatiron community is great and help me anytime I am stuck. 
+So far I've been very happy to see my progress with my Tic Tac toe board. 
 
-One of the most important part for me through the process of so far was to learn about storing an element with array and retrieving an element with interpolation. 
+I realized that to create TTT board wasn’t as simple as I initially thought and to solve the labs can be frustrating sometimes specially for us beginners.
 
-#{...}     interpolation (retrieving an element)
+But whenever I have a question, the Flatiron community is great, and help me anytime I am stuck. 
 
-   […]     array (storing an element) 
+Learning storing an element with array and retrieving it with interpolation was an important content to grasp in order for me to solve some labs.
+
 	
-Here are some tips that helped me to understand interpolation and array.
+**Here are some tips that helped me to understand interpolation and array.
 
-**Elements in an array are associated with a number that represents their order. This number is called an
-index. One important think I have learned is that arrays always start with the index 0, not 1. Crazy right? **
+Elements in an array are associated with a number that represents their order. This number is called an
+index. One important think I have learned is that arrays always start with the index 0, not 1. 
 
-The index operator will take a number and retrieve a variable from the array whose position in the array matches that number. 
+So, for example, to retrieve the first variable from an array you can use array[0], and to retrieve the second you can use array[1].
 
 Let's see the Display_rainbow lab example:
 
-Goal
 
-1. Define a method, `#display_rainbow`, in `lib/display_rainbow.rb`.
-2. `#display_rainbow` must accept an argument, an array of colors. The tests call `#display_rainbow` with the following invocation: `display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])`.
-3. `#display_rainbow` should print out the colors of the rainbow in the following format: `"R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"` by reading from the array passed in as an argument. 
+```
+1. Define a method, display_rainbow
+2. display_rainbow must accept an argument, an array of colors. 
+3. display_rainbow should print out the colors of the rainbow in the following format: R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet by reading from the array passed in as an argument. 
+```
+
 
 ```
 colors= ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
@@ -35,55 +38,17 @@ puts "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{c
 end
 ```
 
-This example shows a string (`#{}`) interpolation that can do marvelous things and run the code in the middle of a string. Using a string interpolation can help you to keep your could clean and easy to read.
+This example can help you to solve the Tic Tac Toe board which you will need to store elements into an array and retrieve the elements with interpolation. 
 
-For Tic Tac Toe board basics you will need to store elements into an array and retrieve the elements with interpolation. 
+The rainbow lab example is perfect to show that a string (`#{}`) interpolation can do marvelous things and it can occur in the beginning, end, or somewhere in the middle of a string.
 
-**Note: Interpolation can be used to extract the element from the array and to print the board.
-**
 
-Let's see the Display_board lab example:
+Moreover, using a string interpolation can help you to keep your code clean and easy to read.
 
-Goal
 
-1. Define a method that accepts an argument.
-2. Use the argument within the method.
-3. Read data from an array.
-4. Print out a multi-line dynamic string using Interpolation
+I hope these tips can help you to understand a bit more about array and string interpolation. 
 
-```
-def display_board (board) #What is made in the method stay in the method. That is why I created a argument called board. So when we call the argument we can extract what is in the method. This is the key to make your board to work.
-
- puts " #{board[0]} | #{board[1]} | #{board[2]} "
- puts "-----------"
- puts " #{board[3]} | #{board[4]} | #{board[5]} "
- puts "-----------"
- puts " #{board[6]} | #{board[7]} | #{board[8]} "
-end
-
-board= [" "," "," "," "," "," "," "," "," "]
-display_board(board)
-
-puts "Round 1"
-board= [" "," "," "," ","X"," "," "," "," "]
-display_board(board)
-
-puts "Round 2"
-board= ["0"," "," "," ","X"," "," "," "," "]
-display_board(board)
-
-puts "Round 2"
-board= ["0"," ","x "," ","X"," ","0 "," "," "]
-
-display_board(board)
-
-```
-
-I hope this tip can help you to understand a bit more about array and string interpolation. 
-
-One more thing! You can see I used the hashtag (#) to write my comments. In ruby, you can use hashtag to make notes as you code along. Notes in your code can be great help to refresh your memory as your code gets more complex.
-
-I see you on my next post.
+Tchau!
 
 
 
