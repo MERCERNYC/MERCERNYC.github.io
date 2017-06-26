@@ -1,22 +1,19 @@
 ---
 layout: post
 title:  "GETTING STARTED WITH BOOTSTRAP"
-date:   2017-06-26 18:36:05 +0000
+date:   2017-06-26 14:36:05 -0400
 ---
 
 ![](http://i.imgur.com/41kObPT.png)
 
-Have you had that feeling when creating a responsive webpage and the code starts getting complex and messy leading us to errors and in the end you think the computer is the problem? 
 
-If you had that feeling before you will love to know that there is a awesome framework that can help you to create responsive webpages and lwith beautiful layouts over a 12-column grid system and stress free.
+How about more time to spend with your friends instead of breaking your head to create responsive webpages? The solution is to be best friend of the framework called Bootstrap which I had the pleasure and fun to learn how it works.
 
-This framework is called Bootstrap and this week, I had the pleasure and fun to learn how it works.
+You might have the feeling of cheating for not written your webpages from scratch, but learning Bootstrap can help you to save time and energy.
 
-You might have the feeling of cheating for not written your webpages from scratch but learning Bootstrap can help you to save time and energy with complex websites layouts when you need it most.
+As I started working with Bootstrap templates, I was surprised to see how functional webpage can be by just manipulating and adding components to the templates.
 
-As I started working with the templates, I was surprised to see that Bootstrap was helping me to build a functional webpage by just manipulating and adding components to the templates.
-
-In the end, your webpages will come out beautifull, with a carousel, navbar or a banner working perfectly without much hassle. 
+In the end, the webpages come out beautifully, with a carousel, navbar and banner working perfectly without much hassle. 
 
 **Here are some steps you can follow so you can get started with Bootstrap:**
 
