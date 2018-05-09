@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "IN AND OUT WITH INTERPOLATION & ARRAY"
-date:   2017-04-10 16:15:07 -0400
+title:      "IN AND OUT WITH INTERPOLATION & ARRAY"
+date:       2017-04-10 16:15:07 -0400
+permalink:  how_to_solve_a_lab_in_oo_tic_tac_toe
 ---
 
 
