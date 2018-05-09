@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "GETTING STARTED WITH BOOTSTRAP"
-date:   2017-06-26 14:36:05 -0400
+title:      "GETTING STARTED WITH BOOTSTRAP"
+date:       2017-06-26 14:36:05 -0400
+permalink:  getting_started_with_bootstrap
 ---
 
 ![](http://i.imgur.com/41kObPT.png)
