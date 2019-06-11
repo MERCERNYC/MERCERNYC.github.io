@@ -1,15 +1,14 @@
 # Site settings
+author: Juliana Mercer Fogg
 title: Becoming a Developer
 header-img: img/home-bg.png
 email: julianafogg@gmail.com
-copyright_name: MERCERNYC
+copyright_name: Juliana Mercer Fogg
 description: > # this means to ignore newlines until "baseurl:"
   Think. Code. Create
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MERCERNYC
-learn_profile: MERCERNYC
-email_username: julianafogg@gmail.com
 
 # Build settings
 markdown: kramdown
