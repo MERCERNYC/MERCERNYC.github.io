@@ -7,8 +7,8 @@ permalink:  my_first_hackathon
 
 ![](https://imgur.com/a/hHlpgxr)
 
-*At some point in your life as a programmer, someone will tell you about a Hackathon. So here I am to tell you about my experience with my first Hackathon.  
-*
+At some point in your life as a programmer, someone will tell you about a Hackathon. So here I am to tell you about my experience with my first Hackathon.  
+
 
 I wish I had tried a hackathon earlier! I met amazing people and learned a ton.
 
